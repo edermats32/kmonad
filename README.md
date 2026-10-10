@@ -38,7 +38,7 @@ mv main.kbd ~/config/kmonad/
 mkdir ~/.local/bin
 ```
 **Download kmonad bin**
-[github.com/kmonad/kmonad/releases/](github.com/kmonad/kmonad/releases/)
+[https://github.com/kmonad/kmonad/releases/](https://github.com/kmonad/kmonad/releases/)
 ```sh
 mv kmonad ~/.local/bin/
 ```
