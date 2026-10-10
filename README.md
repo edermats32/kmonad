@@ -23,10 +23,7 @@ reboot
 ```
 **Download this repo**
 ```sh
-mkdir -p mkdir ~/.config/systemd/user/
-```
-```sh
-mkdir 
+mkdir -p  ~/.config/systemd/user/
 ```
 ```sh
 cp kmonad@.service ~/.config/systemd/user/
@@ -40,6 +37,8 @@ mv main.kbd ~/config/kmonad/
 ```sh
 mkdir ~/.local/bin
 ```
+**Download kmonad bin**
+[github.com/kmonad/kmonad/releases/](github.com/kmonad/kmonad/releases/)
 ```sh
 mv kmonad ~/.local/bin/
 ```
