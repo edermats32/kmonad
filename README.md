@@ -32,7 +32,7 @@ cp kmonad@.service ~/.config/systemd/user/
 mkdir ~/config/kmonad
 ```
 ```sh
-mv main.kbd ~/config/kmonad/
+mv main.kbd ~/.config/kmonad/
 ```
 ```sh
 mkdir ~/.local/bin
